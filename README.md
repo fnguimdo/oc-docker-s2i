@@ -5,6 +5,3 @@ In this tutorial, you will learn how to use OpenShift S2I feature to build a doc
 ### Notes
 This repo is used in IBM L3 course. Any changes should be validated to ensure it doesn't break the L3 course
 
-
-
-testing
